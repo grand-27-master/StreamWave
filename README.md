@@ -24,6 +24,3 @@ StreamWave is a React-based web application that enables real-time audio streami
 - **WebRTC**: Used for real-time audio communication between users.
 - **Web Audio API**: For audio manipulation and visualization.
 - **Canvas API**: For rendering real-time audio waveforms.
-
-## Project Structure
-# StreamWave
