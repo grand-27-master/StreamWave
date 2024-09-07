@@ -1,5 +1,9 @@
 # StreamWave
 
+**Interview Coding Challenge:**
+
+_Create a React application that streams audio between two users and allows basic audio manipulation. The challenge is divided into three steps, with each step increasing in complexity. You can complete as many steps as you’re comfortable with, but completing all of them will showcase your full range of skills._
+
 StreamWave is a React-based web application that enables real-time audio streaming between two users using WebRTC. It also allows basic audio manipulation, including the application of filters, and provides a real-time audio visualization feature.
 
 ## Features
